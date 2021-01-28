@@ -299,7 +299,7 @@ folder and the three files in the `db/migrations` folder.
 * Fill out the Active Record migration for costumes such that it passes the
   specs.
 * Create the CostumeStore class in `app/models/`.
-* Fill out the Active Record migration for `costume_stores` such that it passes
+* Fill out the Active Record migration for `costume_stores` such that buit passes
   the specs.
 * Create the HauntedHouse class in `app/models/`.
 * Fill out the Active Record migration for haunted_houses such that it passes
